@@ -15,7 +15,7 @@ News Pulse is a modern Android application designed to keep users informed with 
 ## Screenshots
 
 <img src="https://github.com/omerfarooq187/news_pulse/blob/main/screenshots/main_screen.png" alt="Main Screen" width="300"/>
-<img src="https://github.com/omerfarooq187/news_pulse/blob/main/screenshots/topheadlines_news_screen" alt="Top Headlines List" width="300"/>
+<img src="https://github.com/omerfarooq187/news_pulse/blob/main/screenshots/topheadlines_news_screen.png" alt="Top Headlines List" width="300"/>
 <img src="https://github.com/omerfarooq187/news_pulse/blob/main/screenshots/news_details_screen.png" alt="News Details Screen" width="300"/>
 <img src="https://github.com/omerfarooq187/news_pulse/blob/main/screenshots/politics_news_screen.png" alt="Politics News Screen" width="300"/>
 <img src="https://github.com/omerfarooq187/news_pulse/blob/main/screenshots/sports_news_screen.png" alt="Sports News Screen" width="300"/>
